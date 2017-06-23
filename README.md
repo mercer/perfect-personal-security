@@ -8,6 +8,7 @@ Between simple and complicated we'll choose simple, so we'll be pragmatic when a
 
 ## Passwords
 ## Private Keys
+## Keychains
 ## Encrypted drive
 ## Encrypted phone
 ## Encrypted emails
